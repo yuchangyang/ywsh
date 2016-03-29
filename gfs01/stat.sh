@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Create by xiaoyang
 src_path=/home/welend/benson/data/config
 work_path=/home/welend/xiaoayang/xyfile
 #work_path=/tmp/applied/xyfile
